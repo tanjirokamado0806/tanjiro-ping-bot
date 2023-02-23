@@ -1,0 +1,8 @@
+.config
+.replit
+replit.nix
+.upm
+node_modules
+.gitignore
+orig.js
+.cache

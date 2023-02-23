@@ -1,0 +1,25 @@
+{
+  "name": "ping-bot",
+  "version": "1.0.6",
+  "description": "Ping Your Projects For Uptime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uptime",
+    "ping",
+    "tanjiro-ping",
+    "ping-bot",
+    "tanjiro"
+  ],
+  "type": "module",
+  "author": "John Arida",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.3.3",
+    "chalk": "^5.2.0",
+    "node-fetch": "^3.2.6"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "ping-bot",
+  "name": "tanjiro-ping-bot",
   "version": "1.0.6",
   "description": "Ping Your Projects For Uptime",
   "main": "index.js",

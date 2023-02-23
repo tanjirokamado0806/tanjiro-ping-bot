@@ -8,7 +8,7 @@ npm install ping-bot
 
 ## Usage
 ```js
-const ping = require("ping-bot");
+const ping = require("tanjiro-ping-bot");
 
 ping() //For Repl.it Repls
 
